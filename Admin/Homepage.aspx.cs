@@ -73,5 +73,6 @@ public partial class Admin_Homepage : System.Web.UI.Page
     protected void BtnGarbage1_Click(object sender, EventArgs e)
     {
         Response.Redirect("ViewGarbageComplaint.aspx");
+        Response.Redirect("ViewGarbageComplaint.aspx");
     }
 }
