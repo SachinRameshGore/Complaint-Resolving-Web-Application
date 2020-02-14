@@ -10,6 +10,6 @@ public partial class Client_Registration : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        //Page Load Event
     }
 }
